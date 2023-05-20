@@ -1,6 +1,6 @@
-# Welcome to My GitHub Home Page!
+# Hola!
 
-![Banner](https://your-image-url.com)
+![Banner]([https://github.com/Agstya/Agstya/blob/main/docs/starwars.jpg])
 
 Hello there! Welcome to my GitHub home page. I'm passionate about Data Science, Machine Learning, and AI Engineering. With experience working at Accenture, Cognizant, and other organizations, I've honed my skills in various aspects of data science and data engineering. I enjoy exploring and implementing solutions that leverage AWS Cloud, DevSecOps, Tableau, and Python for ML/AI development. 
 
