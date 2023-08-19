@@ -2,7 +2,7 @@
 
 ###### *May the ```Force``` be with you!*
 
-<a href="url"><img src="[http://url.to/image.png](https://github.com/Agstya/Agstya/blob/main/docs/banner2.jpg)" align="left" height="480" width="480" ></a>
+<a href="url"><img src="[https://github.com/Agstya/Agstya/blob/main/docs/banner2.jpg](https://github.com/Agstya/Agstya/blob/main/docs/banner2.jpg)" align="left" height="480" width="480" ></a>
 
 <p>
   Hello there! Welcome! My name is Agastya. I'm passionate about Data Science, DevSecOps, MLOps, Machine Learning, and AI Engineering. With experience working at Accenture, Cognizant, and other organizations, I've honed my skills in various aspects of data science and data engineering. I enjoy exploring and implementing solutions that leverage AWS Cloud, DevSecOps, Tableau, and Python for ML/AI development. 
