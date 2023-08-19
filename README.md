@@ -2,7 +2,7 @@
 
 ###### *May the ```Force``` be with you!*
 
-![IMG](https://github.com/Agstya/Agstya/blob/main/docs/banner2.jpg = 250x250)
+![IMG](https://github.com/Agstya/Agstya/blob/main/docs/banner2.jpg)
 
 <p>
   Hello there! Welcome! My name is Agastya. I'm passionate about Data Science, DevSecOps, MLOps, Machine Learning, and AI Engineering. With experience working at Accenture, Cognizant, and other organizations, I've honed my skills in various aspects of data science and data engineering. I enjoy exploring and implementing solutions that leverage AWS Cloud, DevSecOps, Tableau, and Python for ML/AI development. 
